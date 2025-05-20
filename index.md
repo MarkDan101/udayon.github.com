@@ -1,14 +1,14 @@
 ---
 title: "Udayon Sen – Resume"
-description: "AI Researcher | Machine Learning Engineer | Healthcare Innovator"
+description: "AI Researcher | Machine Learning Engineer | Wannabe Polymath"
 ---
 
 # Udayon Sen
 
-**Email:** udayon@example.com  
-**LinkedIn:** [linkedin.com/in/udayonsen](https://linkedin.com/in/udayonsen)  
-**GitHub:** [github.com/udayonsen](https://github.com/udayonsen)  
-**Location:** [City, Country]
+**Email:** udayon.sen@gmail.com  
+**LinkedIn:** [linkedin.com/in/udayonsen](https://www.linkedin.com/in/udayon/)  
+**GitHub:** [github.com/udayonsen](https://github.com/MarkDan101/)  
+**Location:** [Kolkata, India]
 
 ---
 
@@ -20,13 +20,11 @@ I’m a passionate AI researcher and machine learning engineer focused on develo
 
 ## 📚 Education
 
-**University of Massachusetts Amherst**  
-*M.S. in Computer Science*  
-_Expected: Spring 2026_
 
-**[Your Undergraduate University Name]**  
-*B.Tech in [Your Major]*  
-_Graduated: [Year]_
+
+**[IIEST Shibpur]**  
+*B.Tech in Computer Science and Technology*  
+_Graduated: [2022]_
 
 ---
 
@@ -42,9 +40,9 @@ _Graduated: [Year]_
 
 ## 💼 Experience
 
-**Research Intern – [Institution/Organization]**  
-*MM/YYYY – MM/YYYY*  
-- Briefly describe your work, e.g., "Developed a 3D-to-2D projection pipeline for Alzheimer's detection using ViT."
+**Technology Associate – [PwC India]**  
+*07/2022 – 07/2025*  
+- Worked on several projects like developing a Recommender System for a major fashion brand, to optimizing and developing a data-integrated pipeline for a major hotel chain
 
 **Machine Learning Intern – [Company Name]**  
 *MM/YYYY – MM/YYYY*  
