@@ -6,7 +6,7 @@ description: "AI Researcher | Machine Learning Engineer | Wannabe Polymath"
 # Udayon Sen
 
 **Email:** udayon.sen@gmail.com  
-**LinkedIn:** [linkedin.com/in/udayonsen](https://www.linkedin.com/in/udayon/)  
+**LinkedIn:** [linkedin.com/in/udayon](https://www.linkedin.com/in/udayon/)  
 **GitHub:** [github.com/udayonsen](https://github.com/MarkDan101/)  
 **Location:** [Kolkata, India]
 
