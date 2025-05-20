@@ -31,6 +31,7 @@ _Graduated: [2022]_
 ## 🧪 Research Interests
 
 - Vision Transformers for medical imaging
+- AI-Safety and Trustworthy AI
 - Multi-modal data integration and generalization
 - Graph neural networks and healthcare diagnostics
 - Generative models and responsible AI
